@@ -3,4 +3,5 @@ function mostrarEjercicios(){
 }
 function ocultarEjercicios(){
     document.getElementById('ejercicios').style.display = 'none';
+    document.getElementById('entrega').style.display = 'block';
 }
