@@ -5,13 +5,23 @@
 }
 
 button{
-align-items : center;
-
+    font-size: 20px;
+   padding: 10px;
+   border-radius: 10px;
+   margin: 20px;
 }
+#boton{
+   text-align: center;
+}
+
 #ejercicios {
     display: none;
 }
 
+#entrega {
+    text-align: center;
+    color: ;
+}
 h1{
     font-size: 30px;
     color: ;
