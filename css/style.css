@@ -1,4 +1,20 @@
 h1{
+    font-size: 30px;
+    color: ;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+p {
+    font-size: large;
+    color: darkslategray;
+    text-align: center;
+}
+h2{
     font-size: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+h3 {
     
 }
