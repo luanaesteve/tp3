@@ -1,3 +1,7 @@
+const root = document.getElementById('titulo');
+root.innerHTML = "Trabajo practico 3:";
+
+
 function mostrarEjercicios(){
     document.getElementById('ejercicios').style.display = 'block';
 }
